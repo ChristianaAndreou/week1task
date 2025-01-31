@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "tab-presentation/presentation-index.html",
+    "href": "tab-presentation/presentation-index.html",
+    "title": "Examples of presentations",
+    "section": "",
+    "text": "Instructions: Here we can add links to presentations. For now, you can access the presentation by adjusting the URL below with your details:\nhttps://christianaandreou.github.io/week1task/"
+  },
+  {
+    "objectID": "tab-one/tab-one-index.html",
+    "href": "tab-one/tab-one-index.html",
+    "title": "Who am I?",
+    "section": "",
+    "text": "A few words about me\nMy name is Christiana Andreou.\nI graduated in 2017 from Agios Nikolaos High School in Limassol, Cyprus. From 2017 to 2021, I pursued my Bachelor’s degree at the Cyprus University of Technology in the Department of Communication and Internet Studies. In 2024, I started a new Master’s program at the Cyprus University of Technology, which has just been introduced. The program is titled Experiential Digital Marketing.\nFind me at GitHub or send me an email chra.andreou@edu.cut.ac.cy"
+  },
+  {
+    "objectID": "tab-one/tab-one-index.html#add-an-image",
+    "href": "tab-one/tab-one-index.html#add-an-image",
+    "title": "Who am I?",
+    "section": "Add an image",
+    "text": "Add an image"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n«I never dreamed about success. I worked for it.»   Estée Lauder\n",
+    "section": "",
+    "text": "“This is my first task for XDMComs Course”\n\n\n\n\n\n\nΜικρή Landing Page\n\n\n\n\n\n«I never dreamed about success. I worked for it.»   Estée Lauder\n\n\nPress here and change the color of the page"
+  },
+  {
     "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
     "href": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
     "title": "Course overview",
@@ -68,47 +96,5 @@
     "title": "Course overview",
     "section": "Summary",
     "text": "Summary\n\nDashboards are powerful tools for decision-making.\nEffective dashboards balance clarity, relevance, and visual appeal.\nAvoid common pitfalls by focusing on user needs and testing designs."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Add a title",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-  },
-  {
-    "objectID": "index.html#nemo-enim-ipsam",
-    "href": "index.html#nemo-enim-ipsam",
-    "title": "Add a title",
-    "section": "Nemo enim ipsam",
-    "text": "Nemo enim ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-one/tab-one-index.html",
-    "href": "tab-one/tab-one-index.html",
-    "title": "Add a title to your Tab index page",
-    "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-one/tab-one-index.html#nemo-enim-ipsam",
-    "href": "tab-one/tab-one-index.html#nemo-enim-ipsam",
-    "title": "Add a title to your Tab index page",
-    "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-one/tab-one-index.html#add-an-image",
-    "href": "tab-one/tab-one-index.html#add-an-image",
-    "title": "Add a title to your Tab index page",
-    "section": "Add an image",
-    "text": "Add an image\n\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-presentation/presentation-index.html",
-    "href": "tab-presentation/presentation-index.html",
-    "title": "Examples of presentations",
-    "section": "",
-    "text": "Here we can add links to presentations.\nFor now you can access the presentation by adjusting the URL below with your details\nhttps://YOUR-GITHUB-ACCOUNT.github.io/NAME-OF-YOUR-GIT-REPO/tab-presentation/presentation1/presentation-example.html\nSimply change my capitalized text for your: i) your github username\nii) the name of your github repo then copy the URL and paste it to visit the webpage.\nThe adjusted URL above should take you to an example of a simple Quarto presentation."
   }
 ]
