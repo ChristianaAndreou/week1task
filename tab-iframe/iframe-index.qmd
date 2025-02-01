@@ -2,4 +2,8 @@
 title: "Quarto iFrame example"
 ---
 
-<iframe src="https://quarto.org" width="800" height="600"></iframe>
+[Check out my LinkedIn](https://www.linkedin.com/in/christiana-andreou/)
+
+
+<iframe src="https://www.linkedin.com/in/christiana-andreou/" width="600" height="400"></iframe>
+
