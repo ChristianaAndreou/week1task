@@ -1,5 +1,5 @@
 ---
-title: "Who am I?"
+title: "Who am I"
 ---
 
 <style>
@@ -26,9 +26,6 @@ title: "Who am I?"
 <p class="about-text space-after">Find me at <a href="https://github.com/ChristianaAndreou/" target="_blank">GitHub</a> or send me an email chra.andreou@edu.cut.ac.cy </p>
 
 
-## Add an image
 
-
-<img src="/path/to/images/ch.jpg" alt="me" width="300">
 
 
